@@ -7,7 +7,7 @@
 #include <numeric>
 using namespace std;
 
-
+//part two only
 int main(int argc, char* argv[])
 {
     vector<uint64_t> school(9);
