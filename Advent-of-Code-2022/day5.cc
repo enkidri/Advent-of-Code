@@ -7,6 +7,7 @@
 #include <math.h>
 using namespace std;
 
+//Part two only
 class Grid
 {
     public:
