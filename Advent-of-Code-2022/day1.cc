@@ -3,8 +3,9 @@
 #include <vector>
 #include <string>
 #include <numeric>
-
 using namespace std;
+
+//Only valid for part 2
 
 int main()
 {
